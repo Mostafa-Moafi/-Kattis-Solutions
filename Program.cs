@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Linq;
+using System.Collections.Generic;
 
 namespace kattis
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
+
         }
     }
 }
